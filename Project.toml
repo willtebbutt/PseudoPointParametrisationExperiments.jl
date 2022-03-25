@@ -1,0 +1,13 @@
+name = "PseudoPointParametrisationExperiments"
+uuid = "646b8c8b-7662-4654-8f3b-2301776386a2"
+authors = ["WT <wt0881@my.bristol.ac.uk> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
